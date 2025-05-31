@@ -23,5 +23,6 @@ To create a global, community-based arbitration system that removes the need for
 - Token-incentivized juror system
 
 ## Contract Details
+project done by Sudhir Raut 
 0xCB7ec43b2dC37A0c7F1A553BC916Be6a552295a5
 ![alt text](image.png)
