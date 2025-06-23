@@ -74,4 +74,4 @@ contract ClaimDAO {
             c.downvotes
         );
     }
-}
+} 
