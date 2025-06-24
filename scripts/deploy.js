@@ -5,7 +5,7 @@ async function main() {
   const claimDAO = await ClaimDAO.deploy();
 
   await claimDAO.deployed();
-  console.log("ClaimDAO contract deployed to:", claimDAO.address);
+  console.log("ClaimDAO contract deployed to:", claimDAO.address); 
 }
 
 main().catch((error) => {
