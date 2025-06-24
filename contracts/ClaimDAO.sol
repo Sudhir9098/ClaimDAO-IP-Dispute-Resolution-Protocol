@@ -3,7 +3,7 @@ pragma solidity ^0.8.17;
 
 contract ClaimDAO {
     enum ClaimStatus { Open, Resolved, Rejected }
-
+ 
     struct Claim {
         address claimant;
         string evidenceURI;
