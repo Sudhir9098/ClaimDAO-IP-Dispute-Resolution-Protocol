@@ -4,7 +4,7 @@
 
 ClaimDAO is a decentralized arbitration system for resolving intellectual property disputes. It allows users to submit claims, vote on them, and reach community-driven resolutions using transparent smart contracts.
 
-## Project Vision
+## Project Vision 
 
 To create a global, community-based arbitration system that removes the need for centralized IP enforcement while preserving creator rights and ownership.
 
