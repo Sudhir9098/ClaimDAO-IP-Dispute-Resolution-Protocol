@@ -1,4 +1,4 @@
-# Project Title: ClaimDAO: IP Dispute Resolution Protocol
+  # Project Title: ClaimDAO: IP Dispute Resolution Protocol
 
   ##  Project Description 
 
