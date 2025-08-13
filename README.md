@@ -1,6 +1,6 @@
 # Project Title: ClaimDAO: IP Dispute Resolution Protocol
 
- ##  Project Description 
+##  Project Description 
 
 ClaimDAO is a decentralized arbitration system for resolving intellectual property disputes. It allows users to submit claims, vote on them, and reach community-driven resolutions using transparent smart contracts.
 
